@@ -1,0 +1,10 @@
+.ProjectCard {
+    display: flex;
+    flex-direction: column;
+    width: 1080px;
+    height: 1440px;
+    background-color: 
+    #E7E7E7;
+    gap: 36px;
+    padding-top: 36px;
+}
