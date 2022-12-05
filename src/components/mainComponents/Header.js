@@ -1,11 +1,12 @@
-import "./Header.css"
+import Menu from "../secComponents/Menu";
+import "./Header.css";
 
 function Header() {
-    return (
-        <header className="header">
-            <nav className="_container"></nav>
-        </header>
-    )
+  return (
+    <header className="header">
+      <Menu></Menu>
+    </header>
+  );
 }
 
-export default Header
+export default Header;
