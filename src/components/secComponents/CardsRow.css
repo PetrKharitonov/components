@@ -1,0 +1,8 @@
+.CardsRow{
+    display: flex;
+    width: 1080px;
+    height: 456px;
+    background-color: #E7E7E7;
+    gap:36px;
+    
+}
